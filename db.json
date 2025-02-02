@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "LAP001",
+      "productName": "Lenovo ThinkPad X1 Carbon",
+      "category": "Laptop",
+      "price": 1899,
+      "image": "https://i.pcmag.com/imagery/reviews/06Id58TJW8pkzAkqmSi7hjU-1.fit_lim.size_919x518.v1729701979.jpg",
+      "description": "The Lenovo ThinkPad X1 Carbon is a premium ultrabook designed for professionals who need power, durability, and portability. Featuring a sleek carbon-fiber chassis, this laptop is lightweight yet incredibly robust, passing multiple MIL-STD-810H durability tests. It is equipped with an Intel Core i7 processor, 16GB RAM, and a 1TB SSD, ensuring smooth multitasking and high-speed performance. The 14-inch 2K display with Dolby Vision HDR provides stunning visuals, making it perfect for business and creative work. The ThinkPad’s signature keyboard offers an ergonomic typing experience, while the robust security features, such as a fingerprint scanner and TPM 2.0, keep your data safe. The long-lasting battery provides up to 15 hours of usage, making it an excellent choice for professionals on the go."
+    },
+    {
+      "id": "LAP002",
+      "productName": "Apple MacBook Pro M2",
+      "category": "Laptop",
+      "price": 2199,
+      "image": "https://cdn.mos.cms.futurecdn.net/Ajc3ezCTN4FGz2vF4LpQn9-1200-80.jpg",
+      "description": "The Apple MacBook Pro M2 redefines performance and efficiency with Apple’s cutting-edge M2 chip, delivering superior processing power and energy efficiency. The 16-inch Liquid Retina XDR display offers incredible color accuracy and contrast, making it an ideal choice for creative professionals. The MacBook Pro M2 features 32GB of unified memory and up to 2TB SSD, providing lightning-fast responsiveness. Its six-speaker sound system with spatial audio delivers an immersive media experience. The all-day battery life ensures productivity on the go, while macOS enhances security and seamless workflow. With a premium aluminum chassis, MagSafe charging, and multiple Thunderbolt 4 ports, the MacBook Pro is an excellent blend of power and elegance for professionals and students alike."
+    },
+    {
+      "id": "LAP003",
+      "productName": "Dell XPS 15",
+      "category": "Laptop",
+      "price": 1799,
+      "image": "https://hniesfp.imgix.net/8/images/detailed/786/ZHG-00004.jpg?fit=fill&bg=0FFF&w=1500&h=1000&auto=format,compress",
+      "description": "The Dell XPS 15 is a high-performance laptop tailored for power users, offering a stunning 15.6-inch 4K OLED display with 100% AdobeRGB color accuracy, making it perfect for content creators. Powered by the latest Intel Core i9 processor, 32GB RAM, and a 1TB NVMe SSD, it delivers unmatched speed and efficiency for demanding tasks like video editing and software development. The NVIDIA GeForce RTX 3050 Ti GPU enhances gaming and rendering capabilities. The sleek, lightweight aluminum chassis and edge-to-edge display make it both stylish and compact. It features an advanced cooling system, a high-precision keyboard, and a long-lasting battery that keeps you going for hours. With its premium build, superior performance, and excellent connectivity options, the Dell XPS 15 is a top-tier laptop for professionals and creatives."
+    }
+  ]
+}
